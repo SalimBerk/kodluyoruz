@@ -1,0 +1,2 @@
+# kodluyoruz
+ilk ödev
